@@ -218,4 +218,4 @@ We welcome contributions to make this guide even better! If you have scripts, ti
 
 ---
 
-Start mastering Linux today! 🌟
+**Start mastering Linux today! 🌟**
