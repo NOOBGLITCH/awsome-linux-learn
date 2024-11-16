@@ -52,7 +52,7 @@ For beginners, it's recommended to start with the **Cheat Sheets** and **Command
    - [Function with Return Value](#function-with-return-value)
    - [Recursive Function](#recursive-function)
    - [Function with Default Parameters](#function-with-default-parameters)
-
+ 6. File System Hierarchy 📁(#5-linux-functions-)
 ---
 
 ## **1. Understanding File Permissions in Linux 🔒**
@@ -313,6 +313,28 @@ greet
 ```
 
 ---
+## **6. File System Hierarchy 📁**
+
+The Linux file system is structured in a tree-like hierarchy, with directories having specific roles. Here are the key directories:
+
+- **`/`** - Root directory; the base of the entire file system.
+- **`/bin`** - Essential system binaries (e.g., `ls`, `cp`).
+- **`/boot`** - Kernel boot loader files.
+- **`/dev`** - Device files.
+- **`/etc`** - System configuration files.
+- **`/home`** - User home directories (e.g., documents, settings).
+- **`/lib`** - Libraries used by binaries.
+- **`/media`** - Mount points for removable media (e.g., USB drives).
+- **`/mnt`** - Temporary mount points for filesystems.
+- **`/opt`** - Optional application software packages.
+- **`/proc`** - Kernel and process information.
+- **`/root`** - Home directory of the root user.
+- **`/run`** - Runtime information about the system since the last boot.
+- **`/sbin`** - System binaries, typically for administrative tasks.
+- **`/srv`** - Data for services provided by the system.
+- **`/tmp`** - Temporary files storage.
+- **`/usr`** - User programs and utilities, including subdirectories like `/usr/bin`, `/usr/local`.
+- **`/var`** - Variable data (logs, caches, spool files, etc.).
 
 ## 📄 **License**
 
