@@ -1,6 +1,7 @@
-
 # Welcome to the **Learn Linux** Repository! 🐧
 
+<div align="center">    <img src="https://i.ibb.co/GHDwkFR/cropped-image.png" alt="Linux Image" height="200" width="200" />
+</div>
 This project provides you with essential information, cheat sheets, and commands to master Linux. Whether you're a beginner or an experienced user, this repository is your go-to guide for navigating the Linux operating system. 
 
 ## 🔧 **Prerequisites**
