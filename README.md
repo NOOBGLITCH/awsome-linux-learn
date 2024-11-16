@@ -52,7 +52,7 @@ For beginners, it's recommended to start with the **Cheat Sheets** and **Command
    - [Function with Return Value](#function-with-return-value)
    - [Recursive Function](#recursive-function)
    - [Function with Default Parameters](#function-with-default-parameters)
- 6. File System Hierarchy 📁(#5-linux-functions-)
+ 6. File System Hierarchy 📁(#6-file-system-hierarchy-)
 ---
 
 ## **1. Understanding File Permissions in Linux 🔒**
