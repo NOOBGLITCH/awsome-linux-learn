@@ -40,7 +40,7 @@ For beginners, it's recommended to start with the **Cheat Sheets** and **Command
    - [Until Loop](#until-loop)
    - [Do-While Loop (Simulated)](#do-while-loop-simulated)
 
-
+---
 ## **1. Understanding File Permissions in Linux 🔒**
 
 File permissions determine who can **read**, **write**, or **execute** a file. These permissions are divided into three categories:
