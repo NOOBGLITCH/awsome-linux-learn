@@ -24,21 +24,19 @@ For beginners, it's recommended to start with the **Cheat Sheets** and **Command
 
 **Then, dive into the sections and start mastering Linux! 💻**
 
----
-
 ## **Topics Covered** 📘
 
-1. [Understanding File Permissions in Linux 🔒](#understanding-file-permissions-in-linux)
-2. [Using `chmod` to Modify Permissions ⚙️](#using-chmod-to-modify-permissions)
-3. [Conditional Operators in Linux 🧮](#conditional-operators-in-linux)
-   - [Numeric Operators](#numeric-operators)
-   - [String Operators](#string-operators)
-   - [File/Directory Tests](#filedirectory-tests)
-4. [Linux Loops 🔄](#linux-loops)
-   - [For Loop](#for-loop)
-   - [While Loop](#while-loop)
-   - [Until Loop](#until-loop)
-   - [Do-While Loop (Simulated)](#do-while-loop-simulated)
+1. [Understanding File Permissions in Linux 🔒](https://github.com/NOOBGLITCH/awsome-linux-learn?tab=readme-ov-file#understanding-file-permissions-in-linux)
+2. [Using `chmod` to Modify Permissions ⚙️](https://github.com/NOOBGLITCH/awsome-linux-learn?tab=readme-ov-file#using-chmod-to-modify-permissions)
+3. [Conditional Operators in Linux 🧮](https://github.com/NOOBGLITCH/awsome-linux-learn?tab=readme-ov-file#conditional-operators-in-linux)
+   - [Numeric Operators](https://github.com/NOOBGLITCH/awsome-linux-learn?tab=readme-ov-file#numeric-operators)
+   - [String Operators](https://github.com/NOOBGLITCH/awsome-linux-learn?tab=readme-ov-file#string-operators)
+   - [File/Directory Tests](https://github.com/NOOBGLITCH/awsome-linux-learn?tab=readme-ov-file#filedirectory-tests)
+4. [Linux Loops 🔄](https://github.com/NOOBGLITCH/awsome-linux-learn?tab=readme-ov-file#linux-loops)
+   - [For Loop](https://github.com/NOOBGLITCH/awsome-linux-learn?tab=readme-ov-file#for-loop)
+   - [While Loop](https://github.com/NOOBGLITCH/awsome-linux-learn?tab=readme-ov-file#while-loop)
+   - [Until Loop](https://github.com/NOOBGLITCH/awsome-linux-learn?tab=readme-ov-file#until-loop)
+   - [Do-While Loop (Simulated)](https://github.com/NOOBGLITCH/awsome-linux-learn?tab=readme-ov-file#do-while-loop-simulated)
 
 ---
 ## **1. Understanding File Permissions in Linux 🔒**
