@@ -2,7 +2,14 @@
 
 <div align="center">    <img src="https://i.ibb.co/GHDwkFR/cropped-image.png" alt="Linux Image" height="200" width="200" />
 </div>
+<hr>
+
 This project provides you with essential information, cheat sheets, and commands to master Linux. Whether you're a beginner or an experienced user, this repository is your go-to guide for navigating the Linux operating system. 
+<hr>
+
+[🐧Linux All Commands Cheatsheets](https://github.com/NOOBGLITCH/awsome-linux-learn/blob/main/linux%20all%20commands%20chetsheets%20.pdf)
+
+<hr>
 
 ## 🔧 **Prerequisites**
 
@@ -214,7 +221,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 💡 **Feel Free to Contribute!**
 
-We welcome contributions to make this guide even better! If you have scripts, tips, or enhancements to share, feel free to create a pull request! 🚀
+**We welcome contributions to make this guide even better! If you have scripts, tips, or enhancements to share, feel free to create a pull request! 🚀**
 
 ---
 
