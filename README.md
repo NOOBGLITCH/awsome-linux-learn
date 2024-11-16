@@ -1,3 +1,5 @@
+Here’s an updated version of your README with 5 Linux functions added:
+
 # Welcome to the **Awsome Learn Linux** 🐧
 
 <div align="center">    <img src="https://i.ibb.co/GHDwkFR/cropped-image.png" alt="Linux Image" height="200" width="200" />
@@ -44,6 +46,12 @@ For beginners, it's recommended to start with the **Cheat Sheets** and **Command
    - [While Loop](#while-loop)
    - [Until Loop](#until-loop)
    - [Do-While Loop (Simulated)](#do-while-loop-simulated)
+5. [Linux Functions 🔧](#5-linux-functions-)
+   - [Simple Function](#simple-function)
+   - [Function with Arguments](#function-with-arguments)
+   - [Function with Return Value](#function-with-return-value)
+   - [Recursive Function](#recursive-function)
+   - [Function with Default Parameters](#function-with-default-parameters)
 
 ---
 
@@ -209,6 +217,99 @@ while [ $i -lt 10 ]; do
   i=$((i + 1))
   echo $i
 done
+```
+
+---
+
+## **5. Linux Functions 🔧**
+
+Functions help automate complex tasks, making your scripts more modular and reusable.
+
+### **Simple Function**
+A simple function without arguments or return values.
+
+**Syntax**:
+```bash
+function_name() {
+  commands
+}
+```
+
+**Example**:
+```bash
+greet() {
+  echo "Hello, Linux!"
+}
+greet
+```
+
+### **Function with Arguments**
+Functions can accept parameters passed to them.
+
+**Syntax**:
+```bash
+function_name() {
+  echo "Argument 1: $1"
+  echo "Argument 2: $2"
+}
+```
+
+**Example**:
+```bash
+greet_user() {
+  echo "Hello, $1!"
+}
+greet_user "Alice"
+```
+
+### **Function with Return Value**
+Functions can return a value using `return`.
+
+**Syntax**:
+```bash
+function_name() {
+  return 0  # or any integer value
+}
+```
+
+**Example**:
+```bash
+add() {
+  sum=$(( $1 + $2 ))
+  return $sum
+}
+add 3 5
+echo "Sum: $?"
+```
+
+### **Recursive Function**
+A function that calls itself to perform repetitive tasks.
+
+**Example**:
+```bash
+factorial() {
+  if [ $1 -le 1 ]; then
+    echo 1
+  else
+    prev=$(factorial $(( $1 - 1 )))
+    echo $(( $1 * $prev ))
+  fi
+}
+result=$(factorial 5)
+echo "Factorial: $result"
+```
+
+### **Function with Default Parameters**
+Functions can use default parameters if no argument is passed.
+
+**Example**:
+```bash
+greet() {
+  name=${1:-"Guest"}
+  echo "Hello, $name!"
+}
+greet "Alice"
+greet
 ```
 
 ---
