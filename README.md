@@ -1,4 +1,3 @@
-Here’s the updated version of the README with emojis and index links rewritten for a smoother flow:
 
 # Welcome to the **Learn Linux** Repository! 🐧
 
@@ -25,21 +24,22 @@ For beginners, it's recommended to start with the **Cheat Sheets** and **Command
 **Then, dive into the sections and start mastering Linux! 💻**
 
 ## **Topics Covered** 📘
-1. [Understanding File Permissions in Linux](#understanding-file-permissions-in-linux)
-2. [Using `chmod` to Modify Permissions](#using-chmod-to-modify-permissions)
-3. [Conditional Operators in Linux ](#conditional-operators-in-linux)
+
+1. [Understanding File Permissions in Linux 🔒](#understanding-file-permissions-in-linux)
+2. [Using `chmod` to Modify Permissions ⚙️](#using-chmod-to-modify-permissions)
+3. [Conditional Operators in Linux 🧮](#conditional-operators-in-linux)
    - [Numeric Operators](#numeric-operators)
    - [String Operators](#string-operators)
    - [File/Directory Tests](#filedirectory-tests)
-4. [Linux Loops](#linux-loops)
+4. [Linux Loops 🔄](#linux-loops)
    - [For Loop](#for-loop)
    - [While Loop](#while-loop)
    - [Until Loop](#until-loop)
    - [Do-While Loop (Simulated)](#do-while-loop-simulated)
 
 ---
----
-## **1. Understanding File Permissions in Linux **
+
+## **1. Understanding File Permissions in Linux 🔒**
 
 File permissions determine who can **read**, **write**, or **execute** a file. These permissions are divided into three categories:
 - **Owner**: `rwx` (full access).
@@ -79,7 +79,7 @@ chmod [options] mode file
 
 ---
 
-## **3. Conditional Operators in Linux**
+## **3. Conditional Operators in Linux 🧮**
 
 Conditional operators are used to perform comparisons or checks in shell scripts.
 
@@ -107,7 +107,7 @@ Conditional operators are used to perform comparisons or checks in shell scripts
 
 ---
 
-## **4. Linux Loops**
+## **4. Linux Loops 🔄**
 
 Loops automate repetitive tasks in Linux by executing commands based on conditions.
 
@@ -218,3 +218,6 @@ We welcome contributions to make this guide even better! If you have scripts, ti
 ---
 
 Start mastering Linux today! 🌟
+```
+
+Now, all the index links should work correctly, taking users to the appropriate sections.
