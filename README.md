@@ -1,4 +1,4 @@
-# Welcome to the **Learn Linux** Repository! 🐧
+# Welcome to the **Awsome Learn Linux** 🐧
 
 <div align="center">    <img src="https://i.ibb.co/GHDwkFR/cropped-image.png" alt="Linux Image" height="200" width="200" />
 </div>
