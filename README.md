@@ -25,13 +25,13 @@ For beginners, it's recommended to start with the **Cheat Sheets** and **Command
 
 ## **Topics Covered** 📘
 
-1. [Understanding File Permissions in Linux 🔒](#understanding-file-permissions-in-linux)
-2. [Using `chmod` to Modify Permissions ⚙️](#using-chmod-to-modify-permissions)
-3. [Conditional Operators in Linux 🧮](#conditional-operators-in-linux)
+1. [Understanding File Permissions in Linux 🔒](#1-understanding-file-permissions-in-linux-)
+2. [Using `chmod` to Modify Permissions ⚙️](#2-using-chmod-to-modify-permissions-%EF%B8%8F)
+3. [Conditional Operators in Linux 🧮](#3-conditional-operators-in-linux-)
    - [Numeric Operators](#numeric-operators)
    - [String Operators](#string-operators)
    - [File/Directory Tests](#filedirectory-tests)
-4. [Linux Loops 🔄](#linux-loops)
+4. [Linux Loops 🔄](#4-linux-loops-)
    - [For Loop](#for-loop)
    - [While Loop](#while-loop)
    - [Until Loop](#until-loop)
