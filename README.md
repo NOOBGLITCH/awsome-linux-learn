@@ -219,6 +219,3 @@ We welcome contributions to make this guide even better! If you have scripts, ti
 ---
 
 Start mastering Linux today! 🌟
-```
-
-Now, all the index links should work correctly, taking users to the appropriate sections.
