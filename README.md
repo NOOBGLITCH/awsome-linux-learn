@@ -1,4 +1,3 @@
-Here’s an updated version of your README with 5 Linux functions added:
 
 # Welcome to the **Awsome Learn Linux** 🐧
 
@@ -336,6 +335,10 @@ The Linux file system is structured in a tree-like hierarchy, with directories h
 - **`/usr`** - User programs and utilities, including subdirectories like `/usr/bin`, `/usr/local`.
 - **`/var`** - Variable data (logs, caches, spool files, etc.).
 
+## 🌐 **Learn More About Linux**
+
+- [Learn Shell](https://www.learnshell.org/) - Interactive tutorials to master Linux shell scripting.
+- [Linux Journey](https://linuxjourney.com/) - Explore Linux concepts with a structured, beginner-friendly approach.
 ## 📄 **License**
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
